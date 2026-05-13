@@ -1,9 +1,10 @@
 <div align="center">
+
   <img width=300 src="cute.gif" alt="mascot"/>
 
   <img src="title.svg" alt="svg title" />
 
-<b align="center" style="font-size: 16;">Always building, always learning. | Full Stack Developer</b>
+  <b align="center" style="font-size: 16;">Always building, always learning. | Full Stack Developer</b>
 
 </div>
 
