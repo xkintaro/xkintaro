@@ -1,6 +1,9 @@
 <div align="center">
+
 <img src="title.svg" alt="svg title" />
+
 <b align="center">Always building, always learning. | Full Stack Developer</b>
+
 </div>
 
 <br />
