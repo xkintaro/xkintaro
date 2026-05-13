@@ -24,7 +24,7 @@
 
 <div align="center">
 
-  <h3> About me</h3>
+  <h3>👩🏻‍💻 About me</h3>
 
   <em>
     I’m <strong>Kintaro</strong>, a self-taught <strong>Full Stack Developer</strong> passionate about building <strong>web applications</strong>, backend systems, and developer tools. I enjoy turning ideas into <strong>real products</strong>, constantly learning new technologies, and creating projects that combine <strong>functionality, scalability,</strong> and thoughtful design.
