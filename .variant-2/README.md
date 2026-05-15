@@ -1,5 +1,30 @@
 <div align="center">
-  <img src="title.svg" alt="svg title" />
+
+<img src="title.svg" alt="svg title" />
+
+<b align="center">Always building, always learning. | Full Stack Developer</b>
+
+</div>
+
+<br />
+
+<p align="center">
+  <a href="mailto:mustafw42@gmail.com">
+    <img src="socials/email.svg" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/xkintaro">
+    <img src="socials/instagram.svg" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/NSQk27Zdkv">
+    <img src="socials/discord.svg" alt="Discord" />
+  </a>
+</p>
+
+#
+
+<div align="center">
+
+  <h3>👩🏻‍💻 About me</h3>
 
   <em>
     I’m <strong>Kintaro</strong>, a self-taught <strong>Full Stack Developer</strong> passionate about building <strong>web applications</strong>, backend systems, and developer tools. I enjoy turning ideas into <strong>real products</strong>, constantly learning new technologies, and creating projects that combine <strong>functionality, scalability,</strong> and thoughtful design.
