@@ -37,12 +37,6 @@
   <table align="center">
     <tr>
       <td align="center" width="33%">
-        <a href="https://xkintaro.com">
-          <img src="projects/kintarowwwards_v2.webp" alt="Kintarowwwards" />
-        </a>
-       <b>Kintarowwwards</b>
-      </td>
-      <td align="center" width="33%">
         <a href="https://github.com/xkintaro/aether-media">
           <img src="projects/aether-media.webp" alt="Aether Media" />
         </a>
@@ -53,6 +47,12 @@
           <img src="projects/aether-js.webp" alt="Aether JS" />
         </a>
         <b>Aether JS</b>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://xkintaro.com">
+          <img src="projects/kintarowwwards_v2.webp" alt="Kintarowwwards" />
+        </a>
+       <b>Kintarowwwards</b>
       </td>
     </tr>
   </table>
