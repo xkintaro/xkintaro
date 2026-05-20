@@ -50,7 +50,7 @@
       </td>
       <td align="center" width="33%">
         <a href="https://xkintaro.com">
-          <img src="projects/kintarowwwards_2.webp" alt="Kintarowwwards" />
+          <img src="projects/kintarowwwards_v2.webp" alt="Kintarowwwards" />
         </a>
        <b>Kintarowwwards</b>
       </td>
